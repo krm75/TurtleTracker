@@ -1,1 +1,0 @@
-John gave us this data.
